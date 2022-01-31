@@ -1,0 +1,52 @@
+
+h1{
+    margin:5px;
+    color:#100152; 
+}
+h3{
+    color:#100152;
+}
+p{
+    color: #595b63;
+}
+
+
+.navul{         
+    list-style-type:none;
+    background-color:#100152;
+    display: flex;
+}
+.navli{
+    text-decoration: none;
+    padding: 3px;
+    margin: 20px;
+}
+.nava{
+    text-decoration: none;
+    color: white;
+}
+.week-background{
+    background-color: #8698e9;
+    padding: 2px;
+    margin: .5rem;
+    align-items: center;
+}
+.day-background{
+    background:#f8f8fc;
+    padding:2px;
+    margin:.3rem;
+    align-items:center;
+    border-radius: 8px;
+}
+.aside-tut{
+    background-color: #ccd3f3;
+    color: black;
+    padding-left: 5px;
+    margin:50px;
+}
+.aside-txt{
+    text-align: right;
+    color: blue;
+    font-style: italic;
+    margin:50px;
+}
